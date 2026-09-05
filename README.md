@@ -24,8 +24,14 @@ This baseline is intentionally simple. It provides a reproducible starting point
 - No third-party packages
 - No API keys or environment variables
 
-Download or clone this repository, open a terminal in its root directory, and
-verify Python is available:
+Clone this repository and enter its root directory:
+
+```bash
+git clone https://github.com/Deep-nayak007/cse598-capstone-baseline.git
+cd cse598-capstone-baseline
+```
+
+Then verify Python is available:
 
 ```bash
 python3 --version
