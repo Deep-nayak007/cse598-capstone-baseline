@@ -1,0 +1,5 @@
+.venv-docx/
+__pycache__/
+.DS_Store
+CSE598-capstone-proposal-*.docx
+~$*.docx

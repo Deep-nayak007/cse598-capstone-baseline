@@ -1,0 +1,23 @@
+[
+  {
+    "question": "When do I need to submit the capstone proposal?",
+    "status": "answered",
+    "confidence": 0.463,
+    "matched_source": "capstone_due_date",
+    "answer": "The capstone project proposal must be submitted to Canvas by September 6 at 11:59 PM Phoenix Time."
+  },
+  {
+    "question": "What files should my README mention?",
+    "status": "answered",
+    "confidence": 0.509,
+    "matched_source": "readme_requirements",
+    "answer": "The README should explain dependencies, setup steps, required API keys or environment variables, exact commands or notebook cells to run, and where to find input and output files."
+  },
+  {
+    "question": "Can the baseline be simple?",
+    "status": "answered",
+    "confidence": 0.315,
+    "matched_source": "baseline_requirement",
+    "answer": "The baseline does not need to be strong, but it must be runnable, reproducible, and testable on at least one concrete example."
+  }
+]

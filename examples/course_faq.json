@@ -1,0 +1,27 @@
+[
+  {
+    "id": "capstone_due_date",
+    "question": "When is the capstone proposal due?",
+    "answer": "The capstone project proposal must be submitted to Canvas by September 6 at 11:59 PM Phoenix Time."
+  },
+  {
+    "id": "proposal_contents",
+    "question": "What should the proposal include?",
+    "answer": "The proposal should define the project problem, explain motivation and scope, describe a runnable baseline, include a test case with actual output, provide reproducibility instructions, outline an evaluation plan, and list limitations and next steps."
+  },
+  {
+    "id": "repo_access",
+    "question": "What repository information is required?",
+    "answer": "The submission must include a link to a runnable code repository or notebook that is accessible to everyone."
+  },
+  {
+    "id": "readme_requirements",
+    "question": "What should the README explain?",
+    "answer": "The README should explain dependencies, setup steps, required API keys or environment variables, exact commands or notebook cells to run, and where to find input and output files."
+  },
+  {
+    "id": "baseline_requirement",
+    "question": "How strong does the baseline need to be?",
+    "answer": "The baseline does not need to be strong, but it must be runnable, reproducible, and testable on at least one concrete example."
+  }
+]
