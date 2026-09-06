@@ -39,6 +39,8 @@ python3 --version
 
 No package installation or configuration step is required.
 
+An explicit `requirements.txt` is included and contains no package entries.
+
 ## Run Instructions
 
 From the project folder, run:
@@ -62,6 +64,20 @@ output/baseline_output.json
 The input file is a JSON list of question strings. The output is a JSON list
 containing each question, its status, confidence score, matched source id, and
 answer. To use a different knowledge base, pass `--kb path/to/file.json`.
+
+## Optional Notebook
+
+The same baseline can also be run from `CSE598_Capstone_Baseline.ipynb` using
+Jupyter or Google Colab. Select **Run All** and confirm the final cell prints
+the message below. When opened by itself, the notebook automatically clones
+this public repository to obtain the baseline files.
+
+```text
+Notebook checks passed: expected matches and fallback behavior verified.
+```
+
+The command-line script remains the primary baseline and does not require
+Jupyter.
 
 ## Test Case
 
